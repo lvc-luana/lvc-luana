@@ -7,7 +7,7 @@
 👩🏽‍🎓 BEng in Electrical Engineering (NFQ Level 8 Ireland | EQF Level 6)<br>
 📚 Studying a Higher Diploma in Data Analytics at CCT College Dublin (NFQ Level 8 Ireland | EQF Level 6)<br>
 
-🕵🏽‍♀ Currently seeking opportunities to leverage my engineering background and newly acquired data analytics skills in a dynamic role that spans multiple industries<br>
+🕵🏽‍♀ Currently seeking opportunities to leverage my engineering background and newly acquired data analytics skills<br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lvc-luana/lvc-luana/output/github-contribution-grid-snake-dark.svg">
