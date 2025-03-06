@@ -3,6 +3,10 @@
 
 ## Hi there 👋
 
+📍 Dublin, Ireland
+👩🏽‍🎓 BEng in Electrical Engineering (NFQ Level 8 Ireland | EQF Level 6)<br>
+📚 Data Analytics student at CCT College (NFQ Level 8 Ireland | EQF Level 6)<br>
+🕵🏽‍♀ Currently seeking opportunities to leverage my engineering background and newly acquired data analytics skills in a dynamic role that spans multiple industries<br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
