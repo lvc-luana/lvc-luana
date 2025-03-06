@@ -2,7 +2,6 @@
 
 ## Hi there 👋
 
-📍 Dublin, Ireland<br>
 👩🏽‍🎓 BEng in Electrical Engineering (NFQ Level 8 Ireland | EQF Level 6)<br>
 📚 Studying a Higher Diploma in Data Analytics at CCT College Dublin (NFQ Level 8 Ireland | EQF Level 6)<br>
 
